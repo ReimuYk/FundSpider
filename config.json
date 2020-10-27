@@ -1,0 +1,6 @@
+{
+    "start_time": [1900, 1, 1, 15, 30], 
+    "log_file": "./log.txt",
+    "fund_list": [],
+    "gap": 1800,
+}

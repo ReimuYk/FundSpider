@@ -37,4 +37,4 @@ def printFundData(jsonfile):
     print("估算增值率: %s" % jsonfile['gszzl'])
 
 # demo
-printFundData(pipeline("005963"))
+# printFundData(pipeline("005963"))
